@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pritam Chauhan</h1>
-<h3 align="center">A passionate frontend developer from India who loves to code build beautiful website</h3>
+<h3 align="center">A passionate frontend developer from India who loves to build beautiful website</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritamrajput&label=Profile%20views&color=0e75b6&style=flat" alt="pritamrajput" /> </p>
 
